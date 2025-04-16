@@ -106,7 +106,7 @@ export default function AdminDashboard() {
       {/* Welcome section */}
       <div className="bg-white p-6 rounded-xl shadow-sm mb-8">
         <h1 className="text-2xl font-bold text-gray-800">Welcome to your admin dashboard</h1>
-        <p className="text-gray-600 mt-1">Here's what's happening with your card platform today.</p>
+        <p className="text-gray-600 mt-1">Here what happening with your card platform today.</p>
       </div>
       
       {/* Stats cards */}
